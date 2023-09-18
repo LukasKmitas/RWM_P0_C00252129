@@ -1,0 +1,7 @@
+{
+    "name": "ie.setu.diff",
+    "version": "0.1.0",
+    "displayName": "DiffFilter",
+    "description": "A filter that replaces each number by the absolute value.",
+    "unity": "2020.3"
+}
